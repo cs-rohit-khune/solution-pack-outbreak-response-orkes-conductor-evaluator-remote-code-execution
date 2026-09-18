@@ -13,9 +13,9 @@ The vulnerability allows an unauthenticated attacker to submit a malicious workf
 
 Public proof-of-concept exploit code is available, including a working exploit targeting Conductor v3.23.0. Exploit material has also been published through Exploit-DB, increasing the likelihood of opportunistic scanning and exploitation of exposed deployments. 
 
- The **Outbreak Response - Orkes Conductor Evaluator Remote Code Execution** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.0.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
+ The **Outbreak Response - Orkes Conductor Evaluator Remote Code Execution** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.3.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
 
- The [FortiGuard Outbreak Page]() contains information about the outbreak alert **Outbreak Response - Orkes Conductor Evaluator Remote Code Execution**. 
+ The [FortiGuard Outbreak Page](https://www.fortiguard.com/outbreak-alert/orkes-conductor-rce) contains information about the outbreak alert **Outbreak Response - Orkes Conductor Evaluator Remote Code Execution**. 
 
 ## Background: 
 
